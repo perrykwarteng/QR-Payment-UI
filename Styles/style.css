@@ -13,7 +13,9 @@
 html {
   font-size: 62.5%;
 }
+
 body {
+  font-family: Outfit, Arial, Helvetica, sans-serif;
   margin: 0;
 }
 p {
@@ -54,4 +56,7 @@ p {
   font-weight: 400;
 }
 @media screen and (min-width: 1440px) {
+  .qr--background {
+    width: 100%;
+  }
 }
